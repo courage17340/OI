@@ -1,2 +1,2 @@
 Just a test
-branch master
+branch master & test
