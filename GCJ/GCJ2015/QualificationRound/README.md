@@ -1,4 +1,4 @@
-#GCJ 2015 Round 1A
+#GCJ 2015 Qualification Round
 ##Verdict
 | Problem | Small | Big |
 |:-------:|:-----:|:---:|
