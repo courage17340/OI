@@ -1,3 +1,12 @@
-#GCJ2015 Qualification Round
+#GCJ 2015 Round 1A
+##Verdict
+| Problem | Small | Big |
+|:-------:|:-----:|:---:|
+| A | AC | AC |
+| B | AC | AC |
+| C | AC | AC |
+| D | AC | WA |
+##Status
+Score:	74
 
-Note: D.cpp didn't solve the large dataset correctly.
+Rank:	523

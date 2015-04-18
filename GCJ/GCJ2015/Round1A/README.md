@@ -6,5 +6,6 @@
 | B | AC | AC |
 | C | AC | NOP |
 ##Status
-###Rank693
-###Advance to Round 2
+Score:	66
+
+Rank:	693
